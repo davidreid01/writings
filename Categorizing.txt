@@ -1,0 +1,31 @@
+Categorizing
+
+People categorize things this means they give things labels and deal with all things with that label similarly.
+This makes thinking quick and easy but maybe wrong.
+Two possible errors here:
+1) You have put the thing in the wrong category.
+2) Your treatment of the category is wrong.
+
+
+Merging Arguments
+
+Coming up with a conclusion based on two different arguments.
+Ex.
+Argument 1
+Premise A
+Premise B
+Conclusion C
+Argument 2
+Premise D
+Premise E
+Conclusion F
+Therfore
+Premise A true.
+Premise D true.
+Premise E true.
+Conlusion C and F.
+No.
+If argument 2 is valid conclusion F is sound.
+If argument 1 is valid conclusion C is still undecided as one of its premises is undecided.
+"But I've come so far, I've got A, D and E and I really think C is true."
+No, conclusion C depends both on argument 1 being valid and premise B being true.

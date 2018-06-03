@@ -1,0 +1,45 @@
+
+Randomness in games.
+Certainty and uncertainty are aspects of games that seem antithetical.
+Certainty				Uncertainty
+reward follows effort			Some effort is unrewarded
+
+Randomness in single player games.
+
+Save and Load function enables the player knowledge of the future.
+Don't like the result, quit, reload then do something else.
+
+Having a new seed for the RNG enables a player to choose the future.
+Don't like the result, quit, reload then try again, repeat.
+
+Work arounds:
+1) Saving and reloading the seed prevents the player from choosing the future but not
+obtaining knowledge of the future.
+
+2) Hard core - if you die you cannot reload the character from any save game.
+
+3) Make reloading difficult.
+
+Randomness in Multi-player games.
+
+
+
+
+Things that make a game better or worse.
+1) No 'debug' mode on commercial releases.
+Hackers have ways of finding things out and posting on the internet the results.
+Never Winter Nights was ruined for me when I found debug mode and could enter character data.
+
+2) Do not waste effort on mini games which grow boring after thirty or so times
+but the game will require they be completed many thousands of times.
+
+3) A patch that prevents a players cheat may mean that player will hate the new version.
+A problem in Mage Knight Apocalpse meant you could use your money to buy infinite potion ingredients,
+make the potion and improve your stats. A patch fixed this, I never played it again.
+
+4) Do not think that 'randomness' equates to infinite playability.
+Diablo and Diablo 2 generated maps randomly but they were always looked similar.
+Research -> what is the similarity pattern sub-conciously perceivable in a random generation.
+
+
+

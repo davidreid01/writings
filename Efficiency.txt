@@ -1,0 +1,38 @@
+Efficiency
+
+Question:
+Is it easier to make a nice inefficient thing efficient or a not that nice efficient thing nice?
+Speculation:
+It is easier to make a nice thing efficient than an efficient thing nice.
+Why?
+1) Efficiency is easier to define than 'niceness' this leads to asking easier questions.
+	Questions like:
+		why is it slow?
+	Try to go places with 'make it prettier.' or 'your supposed to be an artist.'
+
+2) The questions are there in the development phase and are thought of.
+	Many developments come by people putting one idea with another.
+	
+Steve Jobs and calligraphy.
+Many hve heard the story of how Steve Jobs took a calligraphy course which lead to Apple having better fonts than Windows.
+
+One suspicion is that because of this better fonts were used through out computing.
+I do not believe this, better fonts are a selling point and would have been adopted by everyone after someone had showed it could be done.
+Apple started with the idea of doing the best and working with what the tech could accomplish.
+Windows started with what the tech could accomplish then did good enough.
+
+ 
+Programming
+Assuming the following comparison of code is done competantly, not a good assumption to any real world programs.
+Code in assembler can be faster and more efficient than code in a higher level language, like JavaScript.
+
+
+
+
+
+
+
+
+
+
+

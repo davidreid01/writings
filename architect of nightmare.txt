@@ -1,0 +1,42 @@
+architect of nightmare
+
+see TDWTF - In the dark
+
+I'm afraid of becoming the architect.
+
+You should be afraid.
+How does one become an architect?
+Believing false things.
+False things:
+1) Of being skilled when you are not - Incompetence.
+2) Of trying to be in control of the project or people.
+
+How does one prevent oneself from becoming an architect?
+Dealing with incompetence.
+From the Dunning-Kruger study an incompetent person cannot know they are incompetent.
+You may have heard it before...
+CODE REVIEW.
+Properly done code review is important.
+You need to have another coder look over and analyze what you have done.
+How else will you know if your incompetent?
+Feedback, even destructive criticism is useful.
+Code review will mean you have to write readable code.
+
+How management is responsible (or not)?
+To let another control an important part of the business is a bad move.
+The architect may have painted themselves into a corner but their mistake will take the company down when it cannot change quick enough.
+Managers are usually cagey when it comes to office politics even when they are non technical and don't allow this to happen.
+
+
+What can be done?
+First, the obvious "Don't let it happen in the first place".
+If you are a programmer:
+Does your company do proper code reviews?
+If not - skill up, polish your CV, apply for other jobs, get a better job and LEAVE.
+Yes, employers will ask you why you left your former employer but a brief answer like "they did not practice proper code reviews"
+would be a ballsy answer that a good employer wants to hear.
+
+If you are a manager:
+
+
+

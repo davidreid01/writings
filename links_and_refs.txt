@@ -1,0 +1,30 @@
+links and refs.
+
+Links to other web documents can be or become bad in several ways.
+
+Change of Reference
+1) Change in location of the resource.
+If the resource has moved or been deleted the link is completely ineffective.
+2) Change of the reference.
+The author of the refernce may have edited the reference in such a way that it no longer supports the argument.
+
+Incorrect reference.
+1) Reference does not support the argument at all.
+2) Lazy reference - reference does not take reader to the right point and would force them to read the article from the beginning
+to check the reference. Most would not bother, giving the reference a TLDR; Too Long Didn't Read.
+
+What to do?
+Firstly, if a resource does not support the argument don't use it, even if a particular line or passage seems to support you.
+Lazy References
+- if you have not studied the entire article to see that it does support your argument a lazy reference is unhelpful.
+- it is up to the author to put in the offset to get to the correct point.
+Major revisions need to check that the references are still good.
+Minor revisions will be commented on.
+
+
+
+
+
+
+
+

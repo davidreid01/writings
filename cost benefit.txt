@@ -1,0 +1,37 @@
+cost benefit
+
+Poorer people think of the big prize and ignore the low probability.
+The opposite of this is to think of high probability and ignore the prize.
+Richer people do not think this way.
+A better way (what the richer people do) is to think of the total reward vs the total cost.
+To calculate the total reward,
+	Total Reward = Reward * Probability of Reward
+	Use calculus, area under graph for more than one prize.
+To calculate cost repeat,
+	Total cost = Cost * Probability of Cost
+If Total Reward > Total Cost then Bet
+else do not Bet
+Most betting involves the Probabilty of Cost being 100 per cent.
+
+Uncertainty of probability
+The Reward is usually made clear, it is advertised or people dream of it but the probability is hidden.
+In a bad bet enough is hidden to prevent an easy or direct calculation of probability.
+What to do if you cannot calculate Total Reward?
+If it is not in your area of competence then say 'no', do not bet.
+Many people find it difficult to say 'no', this is a problem and these people will be punished for it.
+
+Other arguments to say 'no' to a bet when Total Reward and Total Cost are undeterminable.
+1) The goal of business is to make money.
+2) If it is in the client or customers favour to make a bet the business will lose money.
+3) This business has lasted and has investors.
+Therefore:
+C) It is not favourable to make a bet.
+
+There is another factor that most of the successful, many of the rich and those who believe luck is against them consider while
+others do not and that is 'Margin of Safety'.
+
+
+
+
+
+

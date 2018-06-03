@@ -1,0 +1,51 @@
+Pascal's Wager
+
+Is formed by the matrix of two questions:
+1) Do I believe in God?
+2) Does God exist?
+
+
+Does God Exist?		Yes		No
+I Believe in God
+Yes			Heaven		Life wasted but OK.
+			+99999999	-1
+No			Hell		Life lived but ended anyway.
+			-99999999	+1
+Result:
+Pay off for believing:		(+99999999 -1)/2 = +99999998
+Pay off for not believing:	(-99999999 +1)/2 = -99999998
+It is better to believe in God, heaven if your right and not much loss if your wrong
+than to deny God, not much gain if your right and hell if your wrong.
+
+But what happens if more than one religion claims this?
+Eg. Christianity vs Islam.
+Both claim the exclusive way to heaven and hell for everyone else.
+The Matrix then becomes
+
+This God is True	Christianity	Islam		Other
+I Believe in this God.
+Christianity		Heaven		Hell		Life wasted but OK.
+			+999999999	-999999999	-1
+Islam			Hell		Heaven		Life wasted but OK.
+			-999999999	+999999999	-1
+Other			Hell		Hell		Life lived but ended anyway.
+			-999999999	-999999999	+1
+
+Results:
+Betting on Christianity:	(+999999999 -999999999 -1)/3 = -1/3
+Betting on Islam:		(-999999999 +999999999 -1)/3 = -1/3
+Betting on No God:		(-999999999 -999999999 +1)/3 = -1899999998/3
+
+3 Mutually Exclusive Gods
+
+This God is true:	1		2		3		None
+I Believe in this God:
+1			Heaven		Hell		Hell		Life wasted but OK.	
+2			Hell		Heaven		Hell		Life wasted but OK.
+3			Hell		Hell		Heaven		Life wasted but OK.
+None			Hell		Hell		Hell		Life lived but ended anyway.
+
+
+
+
+

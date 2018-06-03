@@ -1,0 +1,9 @@
+The Plan_Do_Review Program
+
+1) Plan
+	- work out what your going to do.
+2) Do
+3) Review
+4) Go to 1).
+
+

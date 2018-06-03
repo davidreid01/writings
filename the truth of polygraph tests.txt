@@ -1,0 +1,30 @@
+The truth of polygraph tests.
+
+What is a polygraph?
+
+"Poly" comes from the Greek for many.
+A polygraph examines numerous biological signals.
+The base line is formed by asking questions (answering some true, some lie) to establish what are the normal biological responses.
+
+What a polygraph tests?
+A poly graph tests biological response in answering the questions.
+When the subject tells something they don't believe in (in other words a lie) as opposed to something they do believe in there will be
+noticeable difference in biological response.
+
+What a polygraph test does show and what it does not.
+The biological response to a question will indicate whether the subject believes the answer, not whether the question is true.
+
+A) Whether statement is true.
+B) Whether subject believes it.
+
+Polygraph results:
+		A is false	A is true
+B is False	Lie		Lie
+B is true	Truth		Truth
+
+A Polygraph test can only show whether the subject believes it not whether it the statement is true.
+
+
+
+
+
