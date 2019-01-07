@@ -1,0 +1,58 @@
+Circular Reasoning
+
+Q - Why is does God exist?
+A - Because the Bible says so.
+
+Q - Why is the Bible true?
+A - Because it is the Word of God.
+
+This is circular because the answer of one part is the question of the other AND
+the question of one part is the answer of the other.
+
+We can never get to a result without accepting as an axiom one of the question answer pairs.
+
+Can we express this in the language of logic?
+A - God is true.
+B - The Bible is true.
+
+A because B
+B because A
+
+What tricks are used in circular reasoning:
+1) Obfuscation and confusion.
+	It is easy to see the fallacy when things are expressed simply.
+	By complicating you can confuse the person who is intellectually lazy.
+	What if you make it:
+		A1 because B1
+		B2 because A2
+	yet A1 means A2 but in different words, same with B1 and B2.
+
+2) Enlarge the circle:
+	A because B because C because D
+	D because C because B because A
+	The aim here is to target the intellectually lazy.
+	The circular reasoner will then argue
+		A because D
+		B because A
+		Therefore not circular.
+	But it is.
+	The logic contains
+		A because B
+		B because A
+You can see a combination of confusion and enlarging the circle means most people will give up and accept it.
+People who want to win the argument socially not logically
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
